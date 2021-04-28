@@ -5,4 +5,5 @@
 /*_temp/*
 
 #Ignore test_file inside particular directory
-!/test_file
+/test_file
+
